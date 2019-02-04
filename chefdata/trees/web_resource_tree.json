@@ -4,42 +4,42 @@
       "children": [
         {
           "children": [],
-          "component_url": "https://programs.edraak.org/api/component/5b9e2364504622049eb8b8e9/?states_program_id=41",
+          "root_component_id": "5b9e193f78e7f904a04379e0",
           "thumbnail_url": "https://edraak-marketing-uploads.edraak.org/k12_program_topics/tafadol_wa_takamol.jpg",
           "title": "\u0627\u0644\u062a\u0641\u0627\u0636\u0644 \u0648\u0627\u0644\u062a\u0643\u0627\u0645\u0644",
           "url": "https://programs.edraak.org/learn/repository/math-algebra-topics-v2/section/5b9e193f78e7f904a04379e0/"
         },
         {
           "children": [],
-          "component_url": "https://programs.edraak.org/api/component/5b9e2a07b1fcd3049d8be69c/?states_program_id=41",
+          "root_component_id": "5b9e191a78e7f904a04379dd",
           "thumbnail_url": "https://edraak-marketing-uploads.edraak.org/k12_program_topics/Ihsaa_wa_ihtemalat.jpg",
           "title": "\u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0627\u062a \u0627\u0644\u062a\u0637\u0628\u064a\u0642\u064a\u0629 (\u0627\u0644\u0645\u064a\u0643\u0627\u0646\u064a\u0643\u0627)",
           "url": "https://programs.edraak.org/learn/repository/math-algebra-topics-v2/section/5b9e191a78e7f904a04379dd/"
         },
         {
           "children": [],
-          "component_url": "https://programs.edraak.org/api/component/5a60ac073d99e104fb62ce12/?states_program_id=41",
+          "root_component_id": "5a60881e6b9064043689772d",
           "thumbnail_url": "https://edraak-marketing-uploads.edraak.org/k12_program_topics/riadyat_tatbekyeh_1.jpg",
           "title": "\u0627\u0644\u0625\u062d\u0635\u0627\u0621 \u0648 \u0627\u0644\u0627\u062d\u062a\u0645\u0627\u0644\u0627\u062a",
           "url": "https://programs.edraak.org/learn/repository/math-algebra-topics-v2/section/5a60881e6b9064043689772d/"
         },
         {
           "children": [],
-          "component_url": "https://programs.edraak.org/api/component/5a60a25f0ed49f0498cb201d/?states_program_id=41",
+          "root_component_id": "5a608819f3a50d049abf68ea",
           "thumbnail_url": "https://edraak-marketing-uploads.edraak.org/k12_program_topics/handasa_wal_kyas.jpg",
           "title": "\u0627\u0644\u0647\u0646\u062f\u0633\u0629 \u0648\u0639\u0644\u0645 \u0627\u0644\u0645\u062b\u0644\u062b\u0627\u062a",
           "url": "https://programs.edraak.org/learn/repository/math-algebra-topics-v2/section/5a608819f3a50d049abf68ea/"
         },
         {
           "children": [],
-          "component_url": "https://programs.edraak.org/api/component/5a6093428c9a02049a3e7457/?states_program_id=41",
+          "root_component_id": "5a6088188c9a02049a3e69e5",
           "thumbnail_url": "https://edraak-marketing-uploads.edraak.org/k12_program_topics/al_jabr_wal_anmat.jpg",
           "title": "\u0627\u0644\u062c\u0628\u0631 \u0648 \u0627\u0644\u0623\u0646\u0645\u0627\u0637",
           "url": "https://programs.edraak.org/learn/repository/math-algebra-topics-v2/section/5a6088188c9a02049a3e69e5/"
         },
         {
           "children": [],
-          "component_url": "https://programs.edraak.org/api/component/5a608cc76380a6049b33feb6/?states_program_id=41",
+          "root_component_id": "5a608815f3a50d049abf68e9",
           "thumbnail_url": "https://edraak-marketing-uploads.edraak.org/k12_program_topics/a3dad_wa_3amalyat.jpg",
           "title": "\u0627\u0644\u0623\u0639\u062f\u0627\u062f \u0648\u0627\u0644\u0639\u0645\u0644\u064a\u0627\u062a \u0627\u0644\u062d\u0633\u0627\u0628\u064a\u0629 \u0639\u0644\u064a\u0647\u0627",
           "url": "https://programs.edraak.org/learn/repository/math-algebra-topics-v2/section/5a608815f3a50d049abf68e9/"
